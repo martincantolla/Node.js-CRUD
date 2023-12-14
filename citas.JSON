@@ -1,0 +1,26 @@
+[
+    {
+        "id": "213",
+        "nombre": "Kiki",
+        "edad": "10",
+        "tipo": "perro",
+        "color": "kuro",
+        "enfermedad": "obesidad"
+    },
+    {
+        "id": "456",
+        "nombre": "Gnocchi",
+        "edad": "3",
+        "tipo": "perrito",
+        "color": "gris",
+        "enfermedad": "alopecia"
+    },
+    {
+        "id": "733",
+        "nombre": "Stelluki",
+        "edad": "14",
+        "tipo": "perro",
+        "color": "manjar",
+        "enfermedad": "viejurra"
+    }
+]
